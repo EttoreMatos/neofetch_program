@@ -24,8 +24,8 @@ If you want to change the ASCII images, simply replace the files inside the `asc
 If you want to add colors to your image, add this tag at the beginning of each line: `${c<color number>}`.
 
 The color numbers are:
-1: red
-2: orange/yellow/brown (depends on the operating system)
-3: green
-4: blue/purple (depends on the operating system)
-5: white
+1: red;
+2: orange/yellow/brown (depends on the operating system);
+3: green;
+4: blue/purple (depends on the operating system);
+5: white;
