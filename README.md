@@ -1,6 +1,6 @@
 # neofetch_personalize
 
-![Example image](https://github.com/EttoreMatos/neofetch_program/blob/main/Captura%20de%20tela%20de%202025-12-13%2019-41-05.png)
+![Example image]()
 
 This is a project to customize the Linux terminal.
 
