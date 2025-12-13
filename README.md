@@ -1,4 +1,4 @@
-# neofetch_program
+# neofetch_personalize
 This is a project to customize the Linux terminal.
 
 Summary: This project executes one or more ASCII files in the Linux terminal, making it less monotonous and more elegant.
@@ -11,4 +11,10 @@ When you open the file, go to the end of the file and type `neofetch`.
 
 Next, you will open the `.config` folder and find the `neofetch` folder.
 
-Replace all the contents of the folder with the contents of the repository.
+Replace all the contents of the folder with the contents inside the repository.
+
+How to download the repository?:
+
+First, click on `code`, then on `Download ZIP`.
+
+It will download the ZIP file to your PC. Then, right-click and extract it.
