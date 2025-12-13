@@ -18,3 +18,14 @@ How to download the repository?:
 First, click on `code`, then on `Download ZIP`.
 
 It will download the ZIP file to your PC. Then, right-click and extract it.
+
+If you want to change the ASCII images, simply replace the files inside the `ascii` folder with others of your choice. These files must have the .txt extension and can have any name as long as they are inside the `ascii` folder. ASCII images can be found on GOOGLE by searching for "ascii images".
+
+If you want to add colors to your image, add this tag at the beginning of each line: `${c<color number>}`.
+
+The color numbers are:
+1: red
+2: orange/yellow/brown (depends on the operating system)
+3: green
+4: blue/purple (depends on the operating system)
+5: white
