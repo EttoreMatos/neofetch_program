@@ -1,4 +1,7 @@
 # neofetch_personalize
+
+![https://github.com/EttoreMatos/neofetch_program/blob/main/Captura%20de%20tela%20de%202025-12-13%2019-41-05.png]
+
 This is a project to customize the Linux terminal.
 
 Summary: This project executes one or more ASCII files in the Linux terminal, making it less monotonous and more elegant.
