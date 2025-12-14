@@ -1,6 +1,10 @@
 # neofetch personalize ascii easy
 
-![Example image](https://github.com/EttoreMatos/neofetch_program/blob/main/Captura%20de%20tela%20de%202025-12-13%2019-45-40.png)
+-----------------------------------------------------------------------------------------------
+![Example image](https://github.com/EttoreMatos/neofetch_program/blob/main/image1_example.png)
+-----------------------------------------------------------------------------------------------
+![Example image](https://github.com/EttoreMatos/neofetch_program/blob/main/image2_example.png)
+-----------------------------------------------------------------------------------------------
 
 This is a project to customize the Linux terminal.
 
