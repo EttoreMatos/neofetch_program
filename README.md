@@ -10,9 +10,12 @@ Step-by-step: First, you will install Neofetch with the following command: ```su
 
 Then you will open the `.bashrc` file on your laptop or computer.
 
-When you open the file, go to the end of the file and type ```neofetch```.
+When you open the file, go to the end of the file and type:
+```
+neofetch
+```
 
-Next, you will open the `.config` folder and find the `neofetch` folder.
+```.ext, you will open the `.config` folder and find the `neofetch` folder.
 
 Replace all the contents of the folder with the contents inside the repository.
 
