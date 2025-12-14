@@ -6,11 +6,11 @@ This is a project to customize the Linux terminal.
 
 Summary: This project executes one or more ASCII files in the Linux terminal, making it less monotonous and more elegant.
 
-Step-by-step: First, you will install Neofetch with the following command: `sudo apt install neofetch`.
+Step-by-step: First, you will install Neofetch with the following command: ```sudo apt install neofetch```.
 
 Then you will open the `.bashrc` file on your laptop or computer.
 
-When you open the file, go to the end of the file and type `neofetch`.
+When you open the file, go to the end of the file and type ```neofetch```.
 
 Next, you will open the `.config` folder and find the `neofetch` folder.
 
@@ -27,8 +27,9 @@ If you want to change the ASCII images, simply replace the files inside the `asc
 If you want to add colors to your image, add this tag at the beginning of each line: `${c<color number>}`.
 
 The color numbers are:
+```
 1: red;
-2: orange/yellow/brown (depends on the operating system);
-3: green;
-4: blue/purple (depends on the operating system);
-5: white;
+2: orange/yellow/brown (depends on the system); green;
+4: blue/purple (depends on the opetem);
+5: 5: white
+``` 
