@@ -26,13 +26,19 @@ next, you will open the `.config` folder and find the `neofetch` folder.
 
 Replace all the contents of the folder with the contents inside the repository.
 
+---------------------------------------------------------------------------------
+
 How to download the repository?:
 
 First, click on `code`, then on `Download ZIP`.
 
 It will download the ZIP file to your PC. Then, right-click and extract it.
 
+---------------------------------------------------------------------------------
+
 If you want to change the ASCII images, simply replace the files inside the `ascii` folder with others of your choice. These files must have the .txt extension and can have any name as long as they are inside the `ascii` folder. ASCII images can be found on GOOGLE by searching for "ascii images".
+
+---------------------------------------------------------------------------------
 
 If you want to add colors to your image, add this tag at the beginning of each line: `${c<color number>}`.
 
